@@ -19,3 +19,12 @@ PDF변환기
 PDF변환기
 - PDF 파일 포맷 분석
 - Nameobject 오류 발생하는 PDF 파일 선별
+
+# 2022-05-29
+
+LocalConvert
+- 메인 사이트 로고 디자인
+- fabicon 수정
+
+PDF변환기
+- Nameobject에서 string 처리 방식 변경(비표준 pdf 대응)
