@@ -28,3 +28,17 @@ LocalConvert
 
 PDF변환기
 - Nameobject에서 string 처리 방식 변경(비표준 pdf 대응)
+
+# 2022-05-30
+
+비디오변환기
+- 0.1.1 버전 배포
+- 툴바 로고 url이 기존 localconvert.net으로 연결되던 문제 수정
+- 로고 디자인과 fabicon 변경
+- 메인 텍스트가 옵션 선택시 옵션에 따라 변경되도록 수정
+
+PDF변환기
+- 0.1.1 버전 배포
+- 툴바 로고 url이 기존 localconvert.net으로 연결되던 문제 수정
+- 로고 디자인과 fabicon 변경
+- 메인 텍스트가 옵션 선택시 옵션에 따라 변경되도록 수정
