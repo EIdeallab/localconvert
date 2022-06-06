@@ -84,3 +84,9 @@ PDF변환기
 - 각 옵션마다 Routing하도록 수정
 - PDF변환 모듈 Lazy loading 완료
 - Angular universal 적용 중
+
+# 2022-06-06
+
+PDF변환기
+
+- Angular universal custom webpack 설정
