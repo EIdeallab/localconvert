@@ -90,3 +90,9 @@ PDF변환기
 PDF변환기
 
 - Angular universal custom webpack 설정
+
+# 2022-06-09
+
+PDF변환기
+
+- SSR 적용
